@@ -16,8 +16,8 @@
 [![NodeJS](https://img.shields.io/badge/nodejs-00c1ad?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/DMJGilbert)
 
 ### OS
-[![MacOS](https://img.shields.io/badge/MacOS-00c1ad?style=for-the-badge&logo=MacOS&logoColor=white)](https://github.com/DMJGilbert)
-[![NixOS](https://img.shields.io/badge/NixOS-00c1ad?style=for-the-badge&logo=NixOS&logoColor=white)](https://github.com/DMJGilbert)
+[![MacOS](https://img.shields.io/badge/MacOS-00c1ad?style=for-the-badge&logo=MacOS&logoColor=white)](https://github.com/DMJGilbert/.config)
+[![NixOS](https://img.shields.io/badge/NixOS-00c1ad?style=for-the-badge&logo=NixOS&logoColor=white)](https://github.com/DMJGilbert/.config)
 
 <!--
 **DMJGilbert/DMJGilbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
